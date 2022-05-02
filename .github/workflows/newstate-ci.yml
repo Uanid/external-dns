@@ -2,7 +2,7 @@ name: New State CI
 
 on:
   push:
-    branches: [ master ]
+    branches: [ feature/txt-registry-copy ]
 
 jobs:
 
